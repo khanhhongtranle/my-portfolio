@@ -1,0 +1,17 @@
+{
+  "ENGLISH": "English",
+  "VIETNAMESE": "Vietnamese",
+  "CHINESE": "Chinese",
+    "FULL_NAME": "Hong Tran",
+    "GREETING": "Hello, I'm a developer based in Vietnam!",
+  "SOFTWARE_DEVELOPER": "Software Developer",
+  "WORK": "Work",
+  "WORK_DESCRIPTION": "My name is Hong, I live in Vietnam now. I'm a full-stack software developer with a passion for building digital services/stuff I want. Because of interest in new knowledge, I'm willing to learn, to engage in many different types of projects.",
+  "MY_PORTFOLIO": "My Portfolio",
+  "BIO": "Bio",
+  "TO_PRESENT": "to present",
+  "BIO_2021": "Graduated from Vietnam National University, Ho Chi Minh City - University Of Science with major in Software Engineering",
+  "BIO_2020_2022": "Worked at DOTB software company, Ho Chi Minh City",
+  "BIO_2022": "Working at Teqie software company",
+  "CONTACT_ME": "Contact me"
+}
